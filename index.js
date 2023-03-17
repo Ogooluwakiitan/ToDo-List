@@ -9,16 +9,16 @@
  * the todo must show the most recent first
  */
 
-let todoList = [];
+// let todoList = [];
 
-function addItem = () {
+// function addItem = () {
 
-}
+// }
 
-function editItem = (item) {
+// function editItem = (item) {
 
-}
+// }
 
-function deleteItem = (item) {
+// function deleteItem = (item) {
 
-}
+// }
